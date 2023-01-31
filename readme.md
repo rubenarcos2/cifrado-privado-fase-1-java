@@ -8,7 +8,7 @@ Ejercicio de demostración
 Aplicación, tipo applet en java para la demostración de la utilización de encriptación/desencriptación mediante clave público/privada. 
  
 ## Documentación 
-Información disponible en: https://rarcos.com/Criptografia-java/
+Información disponible en: https://rarcos.com/2016/03/11/Criptografia-java/
 
 ### Licencia
 [License about details](https://bitbucket.org/rubenarcos/cifrado-privado-fase-1-java/src/master/license.md)
